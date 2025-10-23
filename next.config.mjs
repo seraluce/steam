@@ -5,7 +5,7 @@ const nextConfig = {
         remotePatterns: [
             {
                 protocol: 'https',
-                hostname: 'steeeam.vercel.app',
+                hostname: 'steam.vercel.ghpull.xyz',
             },
             {
                 protocol: 'https',
